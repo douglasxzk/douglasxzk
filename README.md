@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bem-vindo(a) ao meu perfil 🫀
 
-<!--
-**douglasxzk/douglasxzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nume é Douglas Henrique Batista da Silva
 
-Here are some ideas to get you started:
+-Utilizo a platarforma Alura para estudar linguagens de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-EStou me desenvolvendo nas linguagens JavaScript.HTML e CSS.
+
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos.
+
+### voçe pode entrar em contato comigo 📫
+batista.silva.douglas@escola.pr.gov.br
+
+![](https://media.tenor.com/hHvnbCZFCTUAAAAC/taylor-swift-1989.gif)
+
