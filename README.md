@@ -11,5 +11,5 @@ Meu nume é Douglas Henrique Batista da Silva
 ### voçe pode entrar em contato comigo 📫
 batista.silva.douglas@escola.pr.gov.br
 
-![](https://media.tenor.com/hHvnbCZFCTUAAAAC/taylor-swift-1989.gif)
+![](https://media.tenor.com/5UxH0toSf4MAAAAC/rick.gif)
 
